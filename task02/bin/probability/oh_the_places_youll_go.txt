@@ -1,0 +1,5650 @@
+wild
+    space 1.0
+
+    stay 0.125
+
+    why 0.125
+
+    they 0.25
+
+    a 0.125
+
+    who 0.125
+
+    for 0.125
+
+    98 0.125
+hands
+    and 1.0
+half
+    grant 1.0
+don't
+    like 0.2
+don't
+    have 0.2
+don't
+    choose 0.2
+don't
+    worry 0.2
+don't
+    stew 0.2
+your
+    face 0.03571428571428571
+your
+    mother 0.25
+your
+    mouth 0.03571428571428571
+your
+    day 0.07142857142857142
+your
+    head 0.07142857142857142
+your
+    shoes 0.07142857142857142
+your
+    own 0.03571428571428571
+your
+    gang 0.03571428571428571
+your
+    elbow 0.03571428571428571
+your
+    pants 0.03571428571428571
+your
+    enemies 0.03571428571428571
+your
+    arms 0.03571428571428571
+your
+    sneakers 0.03571428571428571
+your
+    problems 0.03571428571428571
+your
+    right 0.03571428571428571
+your
+    left 0.03571428571428571
+your
+    name 0.03571428571428571
+your
+    mountain 0.03571428571428571
+your
+    way 0.03571428571428571
+diverged
+    in 1.0
+without
+    a 1.0
+these
+    are 0.1111111111111111
+these
+    books 0.1111111111111111
+these
+    two 0.1111111111111111
+these
+    things 0.1111111111111111
+these
+    fleas 0.1111111111111111
+these
+    three 0.2222222222222222
+these
+    trees' 0.1111111111111111
+these
+    battles 0.1111111111111111
+kites
+    ' 0.5
+kites
+    on 0.5
+'my
+    tricks 1.0
+would
+    be 0.16666666666666666
+would
+    suffice 0.16666666666666666
+would
+    have 0.16666666666666666
+would
+    you 0.3333333333333333
+would
+    she 0.16666666666666666
+pick
+    up 0.75
+pick
+    it 0.25
+'that
+    is 1.0
+poor
+    mouth 1.0
+rabbit
+    out 1.0
+cones
+    under 1.0
+because
+    it 0.2
+because
+    you'll 0.2
+because
+    sometimes 0.4
+because
+    you're 0.2
+ran
+    out 0.2
+ran
+    to 0.2
+ran
+    up 0.2
+ran
+    down 0.2
+ran
+    about 0.2
+sue's
+    socks 0.5
+sue's
+    new 0.25
+sue's
+    clothes 0.25
+withered
+    bracken 1.0
+'
+    said 1.0
+'no
+    no 0.5
+'no
+    i 0.25
+'no
+    not 0.25
+click
+    upon 1.0
+3
+    4 1.0
+avalanching
+    on 1.0
+stop
+    without 0.3333333333333333
+stop
+    it 0.6666666666666666
+4
+    percent 1.0
+left
+    and 0.25
+left
+    not 0.25
+left
+    in 0.25
+left
+    or 0.25
+pearls
+    or 1.0
+baked
+    potatoes 1.0
+happening
+    too 1.0
+much
+    like 0.16666666666666666
+much
+    too 0.16666666666666666
+much
+    fun 0.16666666666666666
+much
+    can 0.3333333333333333
+much
+    you 0.16666666666666666
+wind
+    and 0.5
+wind
+    to 0.5
+firmly
+    by 1.0
+'oh
+    dear 1.0
+telling
+    this 1.0
+hang
+    ups 1.0
+fate
+    willfully 1.0
+yellow
+    wood 1.0
+turn
+    many 0.5
+turn
+    left 0.5
+licks
+    lakes 0.5
+licks
+    in 0.5
+same
+    pains 1.0
+swinger
+    of 1.0
+dexterous
+    and 1.0
+after
+    a 0.3333333333333333
+after
+    them 0.3333333333333333
+after
+    my 0.3333333333333333
+flip
+    flapping 1.0
+elves
+    to 0.5
+elves
+    exactly 0.5
+hand
+    like 1.0
+sweep
+    away 1.0
+a
+    sunny 0.008695652173913044
+a
+    rain 0.008695652173913044
+a
+    cup 0.02608695652173913
+a
+    swish 0.008695652173913044
+a
+    swinger 0.017391304347826087
+a
+    pathless 0.008695652173913044
+a
+    twig 0.008695652173913044
+a
+    birch 0.008695652173913044
+a
+    snow 0.008695652173913044
+a
+    wall 0.02608695652173913
+a
+    stone 0.017391304347826087
+a
+    day 0.008695652173913044
+a
+    spell 0.008695652173913044
+a
+    side 0.008695652173913044
+a
+    notion 0.008695652173913044
+a
+    yellow 0.008695652173913044
+a
+    sigh 0.008695652173913044
+a
+    wood 0.008695652173913044
+a
+    farmhouse 0.008695652173913044
+a
+    shake 0.008695652173913044
+a
+    game 0.017391304347826087
+a
+    fish 0.008695652173913044
+a
+    ball 0.008695652173913044
+a
+    book 0.008695652173913044
+a
+    cake 0.008695652173913044
+a
+    little 0.02608695652173913
+a
+    dish 0.008695652173913044
+a
+    rake 0.008695652173913044
+a
+    red 0.008695652173913044
+a
+    bump 0.008695652173913044
+a
+    pot 0.017391304347826087
+a
+    good 0.008695652173913044
+a
+    lot 0.02608695652173913
+a
+    fox 0.017391304347826087
+a
+    box 0.017391304347826087
+a
+    big 0.008695652173913044
+a
+    hook 0.008695652173913044
+a
+    look 0.008695652173913044
+a
+    tip 0.017391304347826087
+a
+    bow 0.008695652173913044
+a
+    pat 0.008695652173913044
+a
+    house 0.008695652173913044
+a
+    plop 0.008695652173913044
+a
+    shame 0.034782608695652174
+a
+    sad 0.008695652173913044
+a
+    quick 0.034782608695652174
+a
+    new 0.008695652173913044
+a
+    tweetle 0.043478260869565216
+a
+    puddle 0.043478260869565216
+a
+    bottle 0.017391304347826087
+a
+    poodle 0.008695652173913044
+a
+    muddle 0.008695652173913044
+a
+    minute 0.008695652173913044
+a
+    noodle 0.008695652173913044
+a
+    toad 0.008695652173913044
+a
+    tree 0.008695652173913044
+a
+    doorknob 0.008695652173913044
+a
+    bag 0.008695652173913044
+a
+    wasn 0.008695652173913044
+a
+    clam 0.008695652173913044
+a
+    ham 0.008695652173913044
+a
+    dusty 0.008695652173913044
+a
+    great 0.017391304347826087
+a
+    prickle 0.008695652173913044
+a
+    lurch 0.008695652173913044
+a
+    slump 0.017391304347826087
+a
+    place 0.017391304347826087
+a
+    mind 0.008695652173913044
+a
+    break 0.008695652173913044
+a
+    most 0.008695652173913044
+a
+    train 0.008695652173913044
+a
+    bus 0.008695652173913044
+a
+    plane 0.008695652173913044
+a
+    yes 0.008695652173913044
+a
+    kite 0.008695652173913044
+a
+    better 0.008695652173913044
+a
+    string 0.008695652173913044
+a
+    pair 0.008695652173913044
+a
+    wig 0.008695652173913044
+a
+    guy 0.008695652173913044
+a
+    very 0.008695652173913044
+a
+    frightening 0.008695652173913044
+d
+    ask 0.25
+d
+    rather 0.25
+d
+    never 0.5
+learn
+    baseball 0.5
+learn
+    about 0.5
+cows
+    but 1.0
+bumps
+    jumps 1.0
+i
+    see 0.019417475728155338
+i
+    like 0.038834951456310676
+i
+    was 0.02912621359223301
+i
+    should 0.019417475728155338
+i
+    once 0.009708737864077669
+i
+    dream 0.009708737864077669
+i
+    m 0.019417475728155338
+i
+    wish 0.019417475728155338
+i
+    don 0.009708737864077669
+i
+    ve 0.009708737864077669
+i
+    hold 0.009708737864077669
+i
+    think 0.019417475728155338
+i
+    know 0.04854368932038835
+i
+    have 0.019417475728155338
+i
+    mean 0.009708737864077669
+i
+    let 0.019417475728155338
+i
+    am 0.04854368932038835
+i
+    tell 0.009708737864077669
+i
+    wonder 0.009708737864077669
+i
+    could 0.04854368932038835
+i
+    built 0.009708737864077669
+i
+    d 0.019417475728155338
+i
+    stood 0.009708737864077669
+i
+    kept 0.009708737864077669
+i
+    doubted 0.009708737864077669
+i
+    shall 0.009708737864077669
+i
+    took 0.009708737864077669
+i
+    sleep 0.019417475728155338
+i
+    sat 0.009708737864077669
+i
+    said 0.038834951456310676
+i
+    will 0.04854368932038835
+i
+    do 0.04854368932038835
+i
+    call 0.019417475728155338
+i
+    stand 0.009708737864077669
+i
+    can 0.10679611650485436
+i
+    hop 0.009708737864077669
+i
+    saw 0.009708737864077669
+i
+    went 0.009708737864077669
+i
+    bet 0.019417475728155338
+i
+    had 0.009708737864077669
+i
+    say 0.019417475728155338
+i
+    did 0.009708737864077669
+i
+    don't 0.019417475728155338
+i
+    get 0.009708737864077669
+i
+    can't 0.038834951456310676
+i
+    hate 0.009708737864077669
+i
+    won't 0.019417475728155338
+i
+    fear 0.009708737864077669
+eating
+    noodles 0.5
+eating
+    poodle 0.5
+m
+    weary 0.5
+m
+    not 0.5
+neighbor
+    know 1.0
+the
+    lines 0.005208333333333333
+the
+    breeze 0.005208333333333333
+the
+    stir 0.005208333333333333
+the
+    sun 0.026041666666666668
+the
+    snow 0.010416666666666666
+the
+    inner 0.005208333333333333
+the
+    withered 0.005208333333333333
+the
+    load 0.005208333333333333
+the
+    woods 0.015625
+the
+    ground 0.015625
+the
+    ice 0.005208333333333333
+the
+    cows 0.005208333333333333
+the
+    stiffness 0.005208333333333333
+the
+    tree 0.010416666666666666
+the
+    top 0.015625
+the
+    same 0.010416666666666666
+the
+    brim 0.010416666666666666
+the
+    air 0.005208333333333333
+the
+    cobwebs 0.005208333333333333
+the
+    right 0.005208333333333333
+the
+    world 0.005208333333333333
+the
+    frozen 0.005208333333333333
+the
+    upper 0.005208333333333333
+the
+    work 0.005208333333333333
+the
+    rabbit 0.005208333333333333
+the
+    yelping 0.005208333333333333
+the
+    gaps 0.005208333333333333
+the
+    hill 0.005208333333333333
+the
+    line 0.005208333333333333
+the
+    wall 0.026041666666666668
+the
+    boulders 0.005208333333333333
+the
+    cones 0.005208333333333333
+the
+    mischief 0.005208333333333333
+the
+    shade 0.005208333333333333
+the
+    undergrowth 0.005208333333333333
+the
+    other 0.005208333333333333
+the
+    better 0.005208333333333333
+the
+    passing 0.005208333333333333
+the
+    first 0.005208333333333333
+the
+    one 0.005208333333333333
+the
+    difference 0.005208333333333333
+the
+    village 0.005208333333333333
+the
+    darkest 0.005208333333333333
+the
+    year 0.005208333333333333
+the
+    only 0.005208333333333333
+the
+    sweep 0.005208333333333333
+the
+    house 0.026041666666666668
+the
+    mat 0.005208333333333333
+the
+    cat 0.125
+the
+    hat 0.052083333333333336
+the
+    day 0.005208333333333333
+the
+    fish 0.06770833333333333
+the
+    ball 0.015625
+the
+    cup 0.010416666666666666
+the
+    milk 0.010416666666666666
+the
+    cake 0.015625
+the
+    toy 0.005208333333333333
+the
+    fan 0.010416666666666666
+the
+    things 0.03125
+the
+    pot 0.020833333333333332
+the
+    hook 0.010416666666666666
+the
+    box 0.010416666666666666
+the
+    hall 0.010416666666666666
+the
+    string 0.005208333333333333
+the
+    dots 0.005208333333333333
+the
+    head 0.005208333333333333
+the
+    way 0.005208333333333333
+the
+    rake 0.005208333333333333
+the
+    gown 0.005208333333333333
+the
+    strings 0.005208333333333333
+the
+    books 0.005208333333333333
+the
+    dish 0.005208333333333333
+the
+    ship 0.005208333333333333
+the
+    chicks 0.005208333333333333
+the
+    goo 0.005208333333333333
+the
+    beetle 0.005208333333333333
+the
+    bottle's 0.005208333333333333
+the
+    poodle's 0.005208333333333333
+the
+    bottle 0.005208333333333333
+the
+    tweetle 0.005208333333333333
+the
+    guy 0.005208333333333333
+the
+    wide 0.005208333333333333
+the
+    places 0.010416666666666666
+the
+    high 0.005208333333333333
+the
+    speed 0.005208333333333333
+the
+    whole 0.010416666666666666
+the
+    lead 0.005208333333333333
+the
+    best 0.005208333333333333
+the
+    rest 0.005208333333333333
+the
+    lurch 0.005208333333333333
+the
+    chances 0.005208333333333333
+the
+    streets 0.005208333333333333
+the
+    waiting 0.010416666666666666
+the
+    mail 0.005208333333333333
+the
+    rain 0.005208333333333333
+the
+    phone 0.005208333333333333
+the
+    wind 0.005208333333333333
+the
+    bright 0.005208333333333333
+the
+    sky 0.005208333333333333
+the
+    magical 0.005208333333333333
+the
+    winning 0.005208333333333333
+the
+    road 0.005208333333333333
+the
+    weather 0.005208333333333333
+the
+    hakken 0.005208333333333333
+the
+    great 0.005208333333333333
+straight
+    out 1.0
+s
+    been 0.1111111111111111
+s
+    warmth 0.1111111111111111
+s
+    when 0.1111111111111111
+s
+    having 0.1111111111111111
+s
+    the 0.2222222222222222
+s
+    not 0.1111111111111111
+s
+    saying 0.1111111111111111
+s
+    a 0.1111111111111111
+fast
+    as 0.75
+fast
+    ' 0.25
+t
+    bend 0.08333333333333333
+t
+    know 0.08333333333333333
+t
+    love 0.08333333333333333
+t
+    it 0.08333333333333333
+t
+    have 0.08333333333333333
+t
+    be 0.08333333333333333
+t
+    a 0.16666666666666666
+t
+    has 0.08333333333333333
+t
+    just 0.08333333333333333
+t
+    he 0.08333333333333333
+t
+    present 0.08333333333333333
+blue
+    goo 1.0
+throw
+    their 1.0
+mordecai
+    ali 1.0
+thank
+    you 1.0
+y
+    our 1.0
+isn
+    t 1.0
+goo
+    now 0.14285714285714285
+goo
+    blue 0.14285714285714285
+goo
+    new 0.14285714285714285
+goo
+    for 0.14285714285714285
+goo
+    goose 0.2857142857142857
+goo
+    too 0.14285714285714285
+good
+    both 0.058823529411764705
+good
+    fences 0.11764705882352941
+good
+    neighbors 0.17647058823529413
+good
+    fun 0.11764705882352941
+good
+    games 0.058823529411764705
+good
+    tricks 0.058823529411764705
+good
+    game 0.11764705882352941
+good
+    things 0.058823529411764705
+good
+    ' 0.058823529411764705
+good
+    trick 0.058823529411764705
+good
+    street 0.058823529411764705
+good
+    chance 0.058823529411764705
+got
+    up 1.0
+wish
+    and 0.3333333333333333
+wish
+    to 0.6666666666666666
+spring
+    mending 0.5
+spring
+    is 0.5
+red
+    fan 0.5
+red
+    wood 0.5
+'they
+    are 0.3333333333333333
+'they
+    like 0.3333333333333333
+'they
+    should 0.3333333333333333
+duck
+    likes 0.5
+duck
+    licks 0.25
+duck
+    takes 0.25
+tip
+    of 1.0
+sews
+    whose 0.2222222222222222
+sews
+    sue's 0.1111111111111111
+sews
+    crow's 0.2222222222222222
+sews
+    socks 0.1111111111111111
+sews
+    knox 0.1111111111111111
+sews
+    rose 0.1111111111111111
+sews
+    hose 0.1111111111111111
+doesn
+    t 1.0
+need
+    the 1.0
+shade
+    of 1.0
+its
+    top 1.0
+often
+    you 1.0
+strange
+    birds 1.0
+gone
+    away 1.0
+blibber
+    blubber 1.0
+weirdish
+    wild 1.0
+rises
+    and 1.0
+sank
+    our 0.5
+sank
+    it 0.5
+puddle
+    battle 0.125
+puddle
+    paddle 0.375
+puddle
+    is 0.125
+puddle
+    in 0.125
+puddle
+    tweetle 0.125
+puddle
+    on 0.125
+'so
+    do 1.0
+choose
+    to 1.0
+ride
+    high 1.0
+miles
+    to 0.6666666666666666
+miles
+    cross 0.3333333333333333
+sorry
+    i 0.3333333333333333
+sorry
+    mr 0.3333333333333333
+sorry
+    to 0.3333333333333333
+you're
+    off 0.3333333333333333
+you're
+    on 0.1111111111111111
+you're
+    too 0.1111111111111111
+you're
+    in 0.1111111111111111
+you're
+    not 0.1111111111111111
+you're
+    that 0.1111111111111111
+you're
+    alone 0.1111111111111111
+end
+    in 1.0
+kraks
+    howl 1.0
+lines
+    of 1.0
+we'll
+    find 1.0
+blocks
+    come 0.25
+blocks
+    and 0.25
+blocks
+    sir 0.25
+blocks
+    on 0.25
+quarters
+    or 1.0
+'but
+    i 1.0
+better
+    claim 0.5
+better
+    break 0.5
+with
+    ice 0.019230769230769232
+with
+    all 0.019230769230769232
+with
+    the 0.15384615384615385
+with
+    a 0.25
+with
+    those 0.019230769230769232
+with
+    handling 0.019230769230769232
+with
+    snow 0.019230769230769232
+with
+    sally 0.019230769230769232
+with
+    my 0.038461538461538464
+with
+    thing 0.038461538461538464
+with
+    big 0.019230769230769232
+with
+    hops 0.019230769230769232
+with
+    fear 0.019230769230769232
+with
+    bricks 0.057692307692307696
+with
+    blocks 0.019230769230769232
+with
+    chicks 0.019230769230769232
+with
+    brooms 0.019230769230769232
+with
+    paddles 0.019230769230769232
+with
+    their 0.038461538461538464
+with
+    care 0.038461538461538464
+with
+    your 0.038461538461538464
+with
+    an 0.019230769230769232
+with
+    curls 0.019230769230769232
+with
+    banner 0.019230769230769232
+with
+    that 0.019230769230769232
+with
+    many 0.019230769230769232
+truth
+    broke 1.0
+moves
+    in 1.0
+there
+    was 0.05263157894736842
+there
+    is 0.3157894736842105
+there
+    where 0.05263157894736842
+there
+    are 0.2631578947368421
+there
+    with 0.05263157894736842
+there
+    we 0.05263157894736842
+there
+    like 0.05263157894736842
+there
+    on 0.05263157894736842
+there
+    that 0.05263157894736842
+there
+    things 0.05263157894736842
+well
+    sir 0.2
+well
+    then 0.8
+handling
+    them 1.0
+called
+    a 1.0
+rid
+    of 1.0
+years
+    afterwards 1.0
+bump
+    made 0.3333333333333333
+bump
+    their 0.3333333333333333
+bump
+    thump 0.3333333333333333
+block
+    stack 1.0
+hate
+    this 1.0
+darkness
+    as 1.0
+'this
+    is 1.0
+'look
+    at 0.6666666666666666
+'look
+    look 0.3333333333333333
+fleas
+    flew 0.6666666666666666
+fleas
+    sneeze 0.3333333333333333
+went
+    out 0.2
+went
+    bump 0.2
+went
+    after 0.2
+went
+    away 0.2
+went
+    on 0.2
+nothing
+    at 1.0
+heaven
+    had 0.5
+heaven
+    till 0.5
+clocks
+    come 0.16666666666666666
+clocks
+    sir 0.3333333333333333
+clocks
+    on 0.5
+ever
+    come 1.0
+winner
+    of 1.0
+bringing
+    a 1.0
+even
+    above 0.5
+even
+    two 0.5
+other
+    as 0.5
+other
+    sound 0.5
+pink
+    white 1.0
+wait
+    a 1.0
+doubted
+    if 1.0
+pine
+    and 1.0
+against
+    you 1.0
+father's
+    trees 1.0
+uncle
+    jake 1.0
+kinds
+    of 1.0
+guy
+    who'll 1.0
+air
+    to 1.0
+matter
+    of 1.0
+isn't
+    quick 0.5
+isn't
+    make 0.5
+swell
+    under 1.0
+top
+    branches 0.25
+top
+    and 0.25
+top
+    of 0.25
+top
+    all 0.25
+asked
+    you 1.0
+too
+    far 0.1111111111111111
+too
+    soon 0.1111111111111111
+too
+    much 0.1111111111111111
+too
+    wet 0.2222222222222222
+too
+    cold 0.1111111111111111
+too
+    sir 0.1111111111111111
+too
+    slow 0.1111111111111111
+too
+    smart 0.1111111111111111
+have
+    seen 0.047619047619047616
+have
+    some 0.047619047619047616
+have
+    come 0.09523809523809523
+have
+    left 0.047619047619047616
+have
+    the 0.09523809523809523
+have
+    fallen 0.047619047619047616
+have
+    to 0.19047619047619047
+have
+    promises 0.047619047619047616
+have
+    no 0.09523809523809523
+have
+    fun 0.09523809523809523
+have
+    any 0.047619047619047616
+have
+    a 0.047619047619047616
+have
+    brains 0.047619047619047616
+have
+    feet 0.047619047619047616
+toy
+    ship 0.75
+toy
+    man 0.25
+famous
+    as 0.5
+famous
+    can 0.5
+crow's
+    clothes 0.6
+crow's
+    nose 0.2
+crow's
+    rose 0.2
+lashed
+    across 1.0
+rose
+    on 0.3333333333333333
+rose
+    grows 0.6666666666666666
+shed
+    crystal 1.0
+shake
+    hands 1.0
+traveler
+    long 1.0
+equally
+    lay 1.0
+est
+    winner 1.0
+upon
+    themselves 1.0
+gown
+    with 1.0
+pig
+    bands 0.5
+pig
+    band 0.5
+points
+    to 1.0
+brains
+    in 0.5
+brains
+    and 0.5
+lag
+    behind 1.0
+whether
+    you 1.0
+quite
+    lame 0.5
+quite
+    a 0.5
+sneak
+    in 1.0
+ali
+    van 1.0
+all
+    her 0.05
+all
+    there 0.05
+all
+    pine 0.05
+all
+    the 0.2
+all
+    that 0.1
+all
+    we 0.05
+all
+    if 0.05
+all
+    i 0.05
+all
+    ' 0.1
+all
+    kinds 0.05
+all
+    my 0.05
+all
+    those 0.05
+all
+    no 0.05
+all
+    hung 0.05
+all
+    alone 0.05
+always
+    kept 0.5
+always
+    pick 0.5
+took
+    the 1.0
+new
+    tricks 0.09090909090909091
+new
+    rake 0.09090909090909091
+new
+    gown 0.09090909090909091
+new
+    trick 0.09090909090909091
+new
+    socks 0.2727272727272727
+new
+    to 0.09090909090909091
+new
+    blue 0.09090909090909091
+new
+    goo 0.18181818181818182
+everyone
+    is 1.0
+already
+    know 1.0
+woods
+    only 0.2
+woods
+    these 0.2
+woods
+    fill 0.2
+woods
+    and 0.2
+woods
+    are 0.2
+shall
+    be 1.0
+less
+    traveled 1.0
+clock
+    stack 1.0
+chick
+    stack 1.0
+snow
+    crust 0.3333333333333333
+snow
+    white 0.3333333333333333
+snow
+    to 0.3333333333333333
+were
+    down 1.0
+paddles
+    in 1.0
+try
+    to 1.0
+arms
+    may 1.0
+dusty
+    old 1.0
+shame
+    ' 0.5
+shame
+    sir 0.5
+dumb
+    now 1.0
+trick
+    ' 0.125
+trick
+    that 0.125
+trick
+    brick 0.125
+trick
+    block 0.125
+trick
+    chick 0.125
+trick
+    clock 0.125
+trick
+    mr 0.125
+trick
+    sir 0.125
+around
+    back 0.3333333333333333
+around
+    for 0.6666666666666666
+beetle
+    battle 0.2857142857142857
+beetle
+    puddle 0.2857142857142857
+beetle
+    bottle 0.14285714285714285
+beetle
+    noodle 0.2857142857142857
+and
+    right 0.005747126436781609
+and
+    turn 0.005747126436781609
+and
+    crazes 0.005747126436781609
+and
+    avalanching 0.005747126436781609
+and
+    they 0.011494252873563218
+and
+    knees 0.005747126436781609
+and
+    in 0.005747126436781609
+and
+    could 0.005747126436781609
+and
+    over 0.005747126436781609
+and
+    not 0.005747126436781609
+and
+    so 0.034482758620689655
+and
+    even 0.005747126436781609
+and
+    life 0.005747126436781609
+and
+    tickles 0.005747126436781609
+and
+    one 0.005747126436781609
+and
+    then 0.040229885057471264
+and
+    begin 0.005747126436781609
+and
+    half 0.005747126436781609
+and
+    snatch 0.005747126436781609
+and
+    climb 0.005747126436781609
+and
+    set 0.011494252873563218
+and
+    coming 0.005747126436781609
+and
+    would 0.005747126436781609
+and
+    spills 0.005747126436781609
+and
+    makes 0.005747126436781609
+and
+    made 0.005747126436781609
+and
+    on 0.011494252873563218
+and
+    some 0.017241379310344827
+and
+    i 0.08620689655172414
+and
+    eat 0.005747126436781609
+and
+    to 0.005747126436781609
+and
+    the 0.1206896551724138
+and
+    he 0.022988505747126436
+and
+    sorry 0.005747126436781609
+and
+    be 0.005747126436781609
+and
+    looked 0.005747126436781609
+and
+    having 0.005747126436781609
+and
+    wanted 0.005747126436781609
+and
+    both 0.005747126436781609
+and
+    ages 0.005747126436781609
+and
+    that 0.005747126436781609
+and
+    frozen 0.005747126436781609
+and
+    downy 0.005747126436781609
+and
+    deep 0.005747126436781609
+and
+    miles 0.011494252873563218
+and
+    too 0.005747126436781609
+and
+    we 0.011494252873563218
+and
+    a 0.022988505747126436
+and
+    look 0.011494252873563218
+and
+    down 0.011494252873563218
+and
+    sally 0.017241379310344827
+and
+    our 0.011494252873563218
+and
+    you 0.028735632183908046
+and
+    thing 0.034482758620689655
+and
+    red 0.005747126436781609
+and
+    kicks 0.005747126436781609
+and
+    with 0.005747126436781609
+and
+    big 0.005747126436781609
+and
+    all 0.005747126436781609
+and
+    this 0.005747126436781609
+and
+    she 0.005747126436781609
+and
+    knox 0.005747126436781609
+and
+    blocks 0.022988505747126436
+and
+    clocks 0.017241379310344827
+and
+    here's 0.005747126436781609
+and
+    chicks 0.005747126436781609
+and
+    tocks 0.011494252873563218
+and
+    ben 0.005747126436781609
+and
+    bim's 0.005747126436781609
+and
+    when 0.022988505747126436
+and
+    now 0.005747126436781609
+and
+    away 0.005747126436781609
+and
+    your 0.017241379310344827
+and
+    frequently 0.005747126436781609
+and
+    footsy 0.005747126436781609
+and
+    you'll 0.005747126436781609
+and
+    hang 0.005747126436781609
+and
+    chin 0.005747126436781609
+and
+    if 0.005747126436781609
+and
+    three 0.005747126436781609
+and
+    sneak 0.005747126436781609
+and
+    grind 0.005747126436781609
+and
+    staying 0.005747126436781609
+and
+    yon 0.005747126436781609
+and
+    face 0.005747126436781609
+and
+    great 0.005747126436781609
+and
+    remember 0.005747126436781609
+and
+    deft 0.005747126436781609
+and
+    never 0.005747126436781609
+and
+    will 0.005747126436781609
+and
+    3 0.005747126436781609
+today
+    you 0.3333333333333333
+today
+    is 0.6666666666666666
+friday
+    night 1.0
+says
+    good 0.5
+says
+    again 0.5
+direction
+    you 1.0
+looked
+    down 1.0
+boulders
+    in 0.5
+boulders
+    that 0.5
+any
+    fun 0.3333333333333333
+any
+    direction 0.3333333333333333
+any
+    not 0.3333333333333333
+sprain
+    both 1.0
+minute
+    mr 1.0
+harness
+    bells 1.0
+until
+    he 0.5
+until
+    our 0.5
+traveled
+    by 1.0
+wall
+    between 0.5
+wall
+    i 0.25
+wall
+    in 0.25
+walk
+    the 1.0
+lame
+    sir 1.0
+thought
+    of 1.0
+ring
+    or 1.0
+ship
+    and 1.0
+cheese
+    trees 0.5
+cheese
+    freeze 0.5
+mountain
+    is 1.0
+jam
+    i 1.0
+let
+    my 0.3333333333333333
+let
+    you 0.3333333333333333
+let
+    down 0.3333333333333333
+boil
+    or 1.0
+goodness
+    i 1.0
+chewy
+    chewing 1.0
+broke
+    in 1.0
+tocks
+    sir 1.0
+want
+    to 1.0
+pack
+    up 1.0
+each
+    the 0.5
+each
+    hand 0.5
+eye
+    is 1.0
+prickle
+    ly 1.0
+himself
+    i 1.0
+wanted
+    wear 1.0
+slow
+    joe 0.8333333333333334
+slow
+    sir 0.16666666666666666
+must
+    have 0.5
+must
+    think 0.5
+truer
+    than 1.0
+cup
+    on 0.5
+cup
+    and 0.5
+maybe
+    not 1.0
+frequently
+    do 1.0
+another
+    thing 0.16666666666666666
+another
+    kind 0.16666666666666666
+another
+    day 0.16666666666666666
+another
+    good 0.16666666666666666
+another
+    game 0.16666666666666666
+another
+    chance 0.16666666666666666
+two
+    can 0.06666666666666667
+two
+    roads 0.13333333333333333
+two
+    books 0.06666666666666667
+two
+    things 0.3333333333333333
+two
+    and 0.13333333333333333
+two
+    ' 0.13333333333333333
+two
+    hands 0.06666666666666667
+two
+    socks 0.06666666666666667
+shattering
+    and 1.0
+notion
+    in 1.0
+found
+    himself 1.0
+pot
+    to 1.0
+are
+    dragged 0.041666666666666664
+are
+    bowed 0.041666666666666664
+are
+    loaves 0.041666666666666664
+are
+    until 0.041666666666666664
+are
+    turned 0.041666666666666664
+are
+    cows 0.041666666666666664
+are
+    no 0.041666666666666664
+are
+    i 0.041666666666666664
+are
+    lovely 0.041666666666666664
+are
+    not 0.08333333333333333
+are
+    two 0.041666666666666664
+are
+    good 0.041666666666666664
+are
+    tame 0.041666666666666664
+are
+    pink 0.041666666666666664
+are
+    you 0.08333333333333333
+are
+    the 0.041666666666666664
+are
+    then 0.041666666666666664
+are
+    lighted 0.041666666666666664
+are
+    playing 0.041666666666666664
+are
+    points 0.041666666666666664
+are
+    games 0.041666666666666664
+are
+    some 0.041666666666666664
+came
+    down 0.5
+came
+    back 0.16666666666666666
+came
+    thing 0.16666666666666666
+came
+    in 0.16666666666666666
+where
+    your 0.09090909090909091
+where
+    it's 0.09090909090909091
+where
+    they 0.09090909090909091
+where
+    you 0.09090909090909091
+where
+    it 0.18181818181818182
+where
+    there 0.09090909090909091
+where
+    the 0.18181818181818182
+where
+    to 0.09090909090909091
+where
+    boom 0.09090909090909091
+takes
+    licks 1.0
+shout
+    loud 1.0
+gives
+    his 1.0
+funny
+    ' 1.0
+broken
+    glass 0.5
+broken
+    across 0.5
+think
+    some 0.16666666666666666
+think
+    the 0.16666666666666666
+think
+    i 0.3333333333333333
+think
+    it 0.16666666666666666
+think
+    of 0.16666666666666666
+silly
+    stuff 1.0
+black
+    branches 1.0
+curls
+    or 1.0
+call
+    this 0.6
+call
+    them 0.2
+call
+    it 0.2
+such
+    heaps 0.3333333333333333
+such
+    blibber 0.3333333333333333
+such
+    silly 0.3333333333333333
+watch
+    his 1.0
+ask
+    to 0.5
+ask
+    if 0.5
+birthdays
+    you 1.0
+thing
+    one 0.46153846153846156
+thing
+    two 0.46153846153846156
+thing
+    to 0.07692307692307693
+through
+    the 0.5
+through
+    three 0.5
+slumping
+    yourself 1.0
+won't
+    do 0.25
+won't
+    chew 0.25
+won't
+    lag 0.25
+won't
+    want 0.25
+till
+    the 1.0
+tweetle
+    beetles 0.45454545454545453
+tweetle
+    beetle 0.45454545454545453
+tweetle
+    poodle 0.09090909090909091
+had
+    fallen 0.125
+had
+    to 0.375
+had
+    worn 0.125
+had
+    trodden 0.125
+had
+    something 0.125
+had
+    them 0.125
+run
+    down 1.0
+mother
+    will 0.18181818181818182
+mother
+    was 0.09090909090909091
+mother
+    is 0.45454545454545453
+mother
+    could 0.09090909090909091
+mother
+    came 0.09090909090909091
+mother
+    asked 0.09090909090909091
+wasn
+    t 1.0
+shook
+    up 0.3333333333333333
+shook
+    their 0.3333333333333333
+shook
+    with 0.3333333333333333
+white
+    trunk 0.5
+white
+    and 0.5
+ham
+    or 1.0
+neighbors
+    isn 1.0
+dogs
+    the 1.0
+things
+    fall 0.05555555555555555
+things
+    ' 0.1111111111111111
+things
+    and 0.05555555555555555
+things
+    will 0.05555555555555555
+things
+    should 0.05555555555555555
+things
+    are 0.05555555555555555
+things
+    they 0.1111111111111111
+things
+    ran 0.05555555555555555
+things
+    yet 0.05555555555555555
+things
+    had 0.05555555555555555
+things
+    that 0.16666666666666666
+things
+    can 0.05555555555555555
+things
+    start 0.05555555555555555
+things
+    you 0.05555555555555555
+birches
+    bend 1.0
+cracks
+    and 1.0
+has
+    seen 0.25
+has
+    made 0.25
+has
+    gone 0.25
+has
+    no 0.25
+those
+    who 0.125
+those
+    things 0.5
+those
+    two 0.25
+those
+    ticks 0.125
+pathless
+    wood 1.0
+worry
+    don't 1.0
+glass
+    to 1.0
+perish
+    twice 1.0
+town
+    to 1.0
+gooey
+    gooey 0.5
+gooey
+    goo 0.5
+let's
+    do 0.6666666666666666
+let's
+    have 0.3333333333333333
+might
+    be 1.0
+gooseberry
+    jam 1.0
+misunderstand
+    me 1.0
+worse
+    than 1.0
+whatever
+    they 1.0
+leads
+    on 1.0
+name
+    buxbaum 1.0
+crow
+    comes 0.5
+crow
+    sews 0.5
+swinging
+    them 0.5
+swinging
+    doesn 0.5
+full
+    of 1.0
+away
+    from 0.3333333333333333
+away
+    ' 0.3333333333333333
+away
+    yes 0.3333333333333333
+string
+    of 1.0
+boom
+    band 0.5
+boom
+    bands 0.5
+nearly
+    balls 1.0
+book
+    one 1.0
+show
+    them 0.25
+show
+    you 0.5
+show
+    to 0.25
+snatch
+    me 1.0
+house
+    is 0.2
+house
+    ' 0.4
+house
+    make 0.2
+house
+    they 0.2
+anything
+    under 1.0
+kicking
+    his 1.0
+not
+    to 0.03333333333333333
+not
+    one 0.1
+not
+    launching 0.016666666666666666
+not
+    carrying 0.016666666666666666
+not
+    need 0.016666666666666666
+not
+    elves 0.016666666666666666
+not
+    of 0.016666666666666666
+not
+    go 0.03333333333333333
+not
+    travel 0.016666666666666666
+not
+    see 0.016666666666666666
+not
+    shine 0.016666666666666666
+not
+    like 0.1
+not
+    sunny 0.016666666666666666
+not
+    mind 0.016666666666666666
+not
+    know 0.05
+not
+    want 0.016666666666666666
+not
+    be 0.1
+not
+    bad 0.016666666666666666
+not
+    wish 0.03333333333333333
+not
+    let 0.016666666666666666
+not
+    all 0.08333333333333333
+not
+    a 0.016666666666666666
+not
+    bite 0.016666666666666666
+not
+    in 0.03333333333333333
+not
+    fly 0.016666666666666666
+not
+    pick 0.016666666666666666
+not
+    easy 0.016666666666666666
+not
+    just 0.016666666666666666
+not
+    so 0.016666666666666666
+not
+    find 0.016666666666666666
+not
+    easily 0.016666666666666666
+not
+    marked 0.016666666666666666
+not
+    quite 0.016666666666666666
+not
+    i'm 0.016666666666666666
+not
+    for 0.016666666666666666
+now
+    have 0.1111111111111111
+now
+    ' 0.1111111111111111
+now
+    here 0.1111111111111111
+now
+    what 0.1111111111111111
+now
+    we 0.1111111111111111
+now
+    come 0.2222222222222222
+now
+    wait 0.1111111111111111
+now
+    isn 0.1111111111111111
+green
+    tomatoes 1.0
+conquer
+    he 1.0
+learned
+    all 1.0
+yes
+    or 0.5
+yes
+    you 0.5
+was
+    going 0.07692307692307693
+was
+    what 0.07692307692307693
+was
+    left 0.07692307692307693
+was
+    i 0.07692307692307693
+was
+    walling 0.07692307692307693
+was
+    like 0.07692307692307693
+was
+    grassy 0.07692307692307693
+was
+    too 0.07692307692307693
+was
+    to 0.07692307692307693
+was
+    out 0.07692307692307693
+was
+    shut 0.07692307692307693
+was
+    back 0.07692307692307693
+was
+    gone 0.07692307692307693
+start
+    to 0.3333333333333333
+start
+    happening 0.3333333333333333
+start
+    in 0.3333333333333333
+yet
+    knowing 0.5
+yet
+    ' 0.5
+beetles
+    well 0.14285714285714285
+beetles
+    fight 0.2857142857142857
+beetles
+    battle 0.42857142857142855
+beetles
+    in 0.14285714285714285
+windows
+    are 1.0
+way
+    down 0.14285714285714285
+way
+    leads 0.14285714285714285
+way
+    that 0.14285714285714285
+way
+    home 0.14285714285714285
+way
+    ' 0.14285714285714285
+way
+    at 0.14285714285714285
+way
+    up 0.14285714285714285
+i'll
+    make 0.6666666666666666
+i'll
+    find 0.3333333333333333
+pair
+    of 1.0
+what
+    he 0.03571428571428571
+what
+    i 0.17857142857142858
+what
+    to 0.10714285714285714
+what
+    the 0.03571428571428571
+what
+    you 0.07142857142857142
+what
+    would 0.14285714285714285
+what
+    will 0.07142857142857142
+what
+    a 0.14285714285714285
+what
+    did 0.03571428571428571
+what
+    should 0.03571428571428571
+what
+    that 0.03571428571428571
+what
+    made 0.03571428571428571
+what
+    do 0.03571428571428571
+what
+    they 0.03571428571428571
+fallen
+    to 1.0
+mouth
+    can't 0.3333333333333333
+mouth
+    is 0.3333333333333333
+mouth
+    this 0.3333333333333333
+grind
+    on 1.0
+battles
+    in 1.0
+time
+    we 1.0
+play
+    was 0.16666666666666666
+play
+    alone 0.16666666666666666
+play
+    ball 0.16666666666666666
+play
+    ' 0.16666666666666666
+play
+    lonely 0.16666666666666666
+play
+    against 0.16666666666666666
+happy
+    birthday 1.0
+decide
+    where 1.0
+footsy
+    as 1.0
+poodle's
+    eating 1.0
+when
+    i 0.11764705882352941
+when
+    truth 0.058823529411764705
+when
+    your 0.11764705882352941
+when
+    our 0.058823529411764705
+when
+    tweetle 0.11764705882352941
+when
+    they 0.11764705882352941
+when
+    beetles 0.11764705882352941
+when
+    a 0.058823529411764705
+when
+    you 0.11764705882352941
+when
+    you're 0.11764705882352941
+three
+    cheese 0.16666666666666666
+three
+    free 0.3333333333333333
+three
+    trees 0.16666666666666666
+three
+    baked 0.16666666666666666
+three
+    quarters 0.16666666666666666
+put
+    a 0.2
+put
+    me 0.2
+put
+    them 0.6
+fuddled
+    wuddled 1.0
+climb
+    black 1.0
+fan
+    with 0.5
+fan
+    and 0.5
+her
+    matter 0.16666666666666666
+her
+    gown 0.16666666666666666
+her
+    bed 0.16666666666666666
+her
+    way 0.16666666666666666
+her
+    your 0.16666666666666666
+her
+    about 0.16666666666666666
+far
+    from 0.5
+far
+    as 0.5
+lonely
+    games 1.0
+case
+    of 1.0
+slick
+    sir 1.0
+grows
+    some 1.0
+give
+    offense 0.5
+give
+    you 0.5
+having
+    lashed 0.3333333333333333
+having
+    thought 0.3333333333333333
+having
+    perhaps 0.3333333333333333
+warmth
+    makes 1.0
+roads
+    diverged 0.6666666666666666
+roads
+    at 0.3333333333333333
+phone
+    to 1.0
+chicks
+    with 0.375
+chicks
+    and 0.375
+chicks
+    on 0.125
+chicks
+    tock 0.125
+muddle
+    puddle 1.0
+care
+    and 1.0
+bright
+    places 1.0
+dome
+    of 1.0
+smart
+    to 1.0
+lot
+    of 0.6666666666666666
+lot
+    ' 0.3333333333333333
+low
+    for 1.0
+pines
+    i 1.0
+mischief
+    in 1.0
+more
+    you'll 1.0
+wet
+    to 0.3333333333333333
+wet
+    day 0.3333333333333333
+wet
+    wet 0.3333333333333333
+born
+    well 1.0
+walling
+    in 0.5
+walling
+    out 0.5
+great
+    thing 0.16666666666666666
+great
+    places 0.3333333333333333
+great
+    sights 0.16666666666666666
+great
+    tact 0.16666666666666666
+great
+    balancing 0.16666666666666666
+onward
+    up 1.0
+'take
+    a 1.0
+fetch
+    the 1.0
+heads
+    to 1.0
+bottled
+    paddled 1.0
+travel
+    both 1.0
+trodden
+    black 1.0
+stuff
+    sir 1.0
+hunters
+    is 1.0
+door
+    game 1.0
+shut
+    with 0.5
+shut
+    up 0.5
+quick
+    trick 0.8
+quick
+    or 0.2
+luck
+    likes 0.5
+luck
+    licks 0.25
+luck
+    takes 0.25
+before
+    them 0.25
+before
+    i 0.75
+tell
+    him 0.2
+tell
+    that 0.2
+tell
+    me 0.2
+tell
+    her 0.4
+simple
+    it's 1.0
+him
+    to 0.25
+him
+    there 0.25
+him
+    step 0.25
+him
+    pick 0.25
+his
+    father's 0.07692307692307693
+his
+    poise 0.07692307692307693
+his
+    way 0.07692307692307693
+his
+    pines 0.07692307692307693
+his
+    head 0.15384615384615385
+his
+    father 0.07692307692307693
+his
+    house 0.07692307692307693
+his
+    woods 0.07692307692307693
+his
+    harness 0.07692307692307693
+his
+    hat 0.15384615384615385
+his
+    mind 0.07692307692307693
+who'll
+    decide 1.0
+bear
+    no 1.0
+day
+    we 0.5
+day
+    ' 0.5
+rain
+    they 0.5
+rain
+    to 0.5
+you'd
+    think 1.0
+it's
+    likely 0.16666666666666666
+it's
+    called 0.16666666666666666
+it's
+    a 0.16666666666666666
+it's
+    opener 0.16666666666666666
+it's
+    true 0.16666666666666666
+it's
+    not 0.16666666666666666
+kind
+    of 1.0
+socks
+    in 0.09090909090909091
+socks
+    on 0.2727272727272727
+socks
+    sir 0.2727272727272727
+socks
+    of 0.09090909090909091
+socks
+    now 0.09090909090909091
+socks
+    fox 0.09090909090909091
+socks
+    our 0.09090909090909091
+tree
+    away 0.3333333333333333
+tree
+    could 0.3333333333333333
+tree
+    you 0.3333333333333333
+straighter
+    darker 1.0
+inner
+    dome 1.0
+done
+    sir 1.0
+both
+    going 0.3333333333333333
+both
+    that 0.3333333333333333
+both
+    your 0.3333333333333333
+most
+    useless 1.0
+grassy
+    and 1.0
+opener
+    there 1.0
+hung
+    limp 0.5
+hung
+    up 0.5
+keep
+    the 1.0
+soar
+    to 1.0
+darkest
+    evening 1.0
+muddled
+    duddled 1.0
+who
+    favor 0.1111111111111111
+who
+    was 0.1111111111111111
+who
+    sews 0.2222222222222222
+who
+    sees 0.1111111111111111
+who
+    sew 0.1111111111111111
+who
+    comes 0.1111111111111111
+who
+    is 0.1111111111111111
+who
+    soar 0.1111111111111111
+joe
+    crow 0.6
+joe
+    crow's 0.4
+game
+    that 0.3
+game
+    ' 0.1
+game
+    fun 0.1
+game
+    to 0.2
+game
+    sir 0.1
+game
+    makes 0.1
+game
+    is 0.1
+their
+    enamel 0.09090909090909091
+their
+    trunks 0.09090909090909091
+their
+    leaves 0.09090909090909091
+their
+    hair 0.18181818181818182
+their
+    heads 0.09090909090909091
+their
+    two 0.09090909090909091
+their
+    kites 0.09090909090909091
+their
+    paddles 0.18181818181818182
+their
+    uncle 0.09090909090909091
+why
+    do 0.3333333333333333
+why
+    the 0.3333333333333333
+why
+    you 0.3333333333333333
+percent
+    guaranteed 1.0
+paddle
+    battle 1.0
+necking
+    pace 1.0
+alone
+    will 0.5
+alone
+    there's 0.5
+wig
+    with 1.0
+sad
+    kind 1.0
+win
+    on 1.0
+didn
+    t 1.0
+luke's
+    duck 1.0
+move
+    mountains 1.0
+built
+    a 1.0
+sat
+    in 0.5
+sat
+    there 0.5
+clear
+    to 1.0
+saw
+    him 0.3333333333333333
+saw
+    all 0.1111111111111111
+saw
+    them 0.1111111111111111
+saw
+    those 0.1111111111111111
+saw
+    mother's 0.1111111111111111
+saw
+    one 0.1111111111111111
+saw
+    her 0.1111111111111111
+banner
+    flip 1.0
+say
+    when 0.07692307692307693
+say
+    the 0.07692307692307693
+say
+    in 0.07692307692307693
+say
+    that 0.15384615384615385
+say
+    elves 0.07692307692307693
+say
+    ' 0.07692307692307693
+say
+    this 0.15384615384615385
+say
+    such 0.07692307692307693
+say
+    so 0.15384615384615385
+say
+    i 0.07692307692307693
+also
+    great 1.0
+enough
+    of 0.5
+enough
+    sir 0.5
+favor
+    fire 1.0
+chew
+    goo 0.25
+chew
+    sir 0.5
+chew
+    it 0.25
+rake
+    and 1.0
+plane
+    to 1.0
+been
+    swinging 1.0
+mostly
+    they're 1.0
+dipped
+    its 1.0
+bad
+    ' 0.5
+bad
+    tricks 0.5
+bring
+    your 1.0
+jumps
+    and 1.0
+bag
+    full 1.0
+trailing
+    their 1.0
+doesn't
+    love 1.0
+you
+    must 0.01020408163265306
+you
+    may 0.02040816326530612
+you
+    use 0.01020408163265306
+you
+    are 0.030612244897959183
+you
+    sit 0.01020408163265306
+you
+    do 0.061224489795918366
+you
+    wish 0.01020408163265306
+you
+    fall 0.01020408163265306
+you
+    up 0.01020408163265306
+you
+    have 0.04081632653061224
+you
+    did 0.01020408163265306
+you
+    sank 0.01020408163265306
+you
+    shook 0.01020408163265306
+you
+    bent 0.01020408163265306
+you
+    should 0.01020408163265306
+you
+    get 0.01020408163265306
+you
+    now 0.01020408163265306
+you
+    will 0.12244897959183673
+you
+    like 0.02040816326530612
+you
+    some 0.01020408163265306
+you
+    hear 0.02040816326530612
+you
+    can 0.07142857142857142
+you
+    pack 0.01020408163265306
+you
+    take 0.01020408163265306
+you
+    another 0.01020408163265306
+you
+    see 0.01020408163265306
+you
+    choose 0.02040816326530612
+you
+    sir 0.01020408163265306
+you
+    don't 0.02040816326530612
+you
+    know 0.030612244897959183
+you
+    for 0.01020408163265306
+you
+    wouldn 0.01020408163265306
+you
+    if 0.01020408163265306
+you
+    d 0.02040816326530612
+you
+    be 0.01020408163265306
+you
+    might 0.02040816326530612
+you
+    you 0.01020408163265306
+you
+    and 0.01020408163265306
+you
+    that 0.01020408163265306
+you
+    er 0.01020408163265306
+you
+    shout 0.01020408163265306
+you
+    won't 0.030612244897959183
+you
+    fly 0.01020408163265306
+you
+    go 0.030612244897959183
+you
+    could 0.01020408163265306
+you
+    dare 0.02040816326530612
+you
+    lose 0.01020408163265306
+you
+    win 0.02040816326530612
+you
+    turn 0.01020408163265306
+you
+    the 0.01020408163265306
+you
+    can't 0.01020408163265306
+you
+    right 0.01020408163265306
+you
+    so 0.01020408163265306
+you
+    already 0.01020408163265306
+you
+    step 0.01020408163265306
+you
+    succeed 0.01020408163265306
+happen
+    to 1.0
+afterwards
+    trailing 1.0
+gang
+    and 0.5
+gang
+    will 0.5
+sure
+    when 1.0
+going
+    to 0.3333333333333333
+going
+    back 0.3333333333333333
+going
+    and 0.3333333333333333
+pass
+    abreast 0.5
+pass
+    the 0.5
+milk
+    on 0.3333333333333333
+milk
+    and 0.6666666666666666
+stiffness
+    out 1.0
+am
+    apple 0.25
+am
+    lucky 0.25
+am
+    thank 0.25
+am
+    that 0.25
+whose
+    only 0.16666666666666666
+whose
+    woods 0.16666666666666666
+whose
+    socks 0.3333333333333333
+whose
+    new 0.16666666666666666
+whose
+    clothes 0.16666666666666666
+an
+    old 0.25
+an
+    easy 0.5
+an
+    unpleasant 0.25
+easy
+    wind 0.25
+easy
+    game 0.25
+easy
+    thing 0.25
+easy
+    mr 0.25
+as
+    ice 0.038461538461538464
+as
+    the 0.07692307692307693
+as
+    he 0.07692307692307693
+as
+    we 0.038461538461538464
+as
+    it 0.038461538461538464
+as
+    far 0.038461538461538464
+as
+    i 0.19230769230769232
+as
+    just 0.038461538461538464
+as
+    fair 0.038461538461538464
+as
+    for 0.038461538461538464
+as
+    a 0.038461538461538464
+as
+    fast 0.07692307692307693
+as
+    you 0.15384615384615385
+as
+    brainy 0.038461538461538464
+as
+    famous 0.07692307692307693
+at
+    spring 0.058823529411764705
+at
+    all 0.29411764705882354
+at
+    me 0.29411764705882354
+at
+    this 0.17647058823529413
+at
+    that 0.058823529411764705
+at
+    last 0.058823529411764705
+at
+    a 0.058823529411764705
+foget
+    to 1.0
+be
+    good 0.030303030303030304
+be
+    a 0.15151515151515152
+be
+    one 0.030303030303030304
+be
+    telling 0.030303030303030304
+be
+    here 0.15151515151515152
+be
+    about 0.030303030303030304
+be
+    so 0.030303030303030304
+be
+    you 0.030303030303030304
+be
+    what 0.030303030303030304
+be
+    if 0.030303030303030304
+be
+    on 0.030303030303030304
+be
+    seeing 0.030303030303030304
+be
+    best 0.030303030303030304
+be
+    left 0.030303030303030304
+be
+    in 0.030303030303030304
+be
+    done 0.030303030303030304
+be
+    scored 0.030303030303030304
+be
+    won 0.030303030303030304
+be
+    as 0.030303030303030304
+be
+    something 0.030303030303030304
+be
+    quite 0.030303030303030304
+be
+    foul 0.030303030303030304
+be
+    sure 0.030303030303030304
+be
+    dexterous 0.030303030303030304
+be
+    your 0.030303030303030304
+comes
+    to 1.0
+hop
+    up 0.5
+hop
+    on 0.5
+bottle
+    puddle 0.25
+bottle
+    with 0.25
+bottle
+    paddle 0.25
+bottle
+    where 0.25
+how
+    way 0.25
+how
+    that 0.25
+how
+    much 0.5
+see
+    birches 0.14285714285714285
+see
+    their 0.14285714285714285
+see
+    him 0.14285714285714285
+see
+    me 0.14285714285714285
+see
+    something 0.14285714285714285
+see
+    this 0.14285714285714285
+see
+    sue 0.14285714285714285
+by
+    the 0.4
+by
+    one 0.2
+by
+    riding 0.2
+by
+    climbing 0.2
+whom
+    i 1.0
+'have
+    no 1.0
+dear
+    ' 1.0
+foot
+    with 1.0
+mind
+    at 0.5
+mind
+    maker 0.5
+set
+    me 0.5
+set
+    the 0.5
+sew
+    whose 0.5
+sew
+    sue's 0.5
+right
+    themselves 0.16666666666666666
+right
+    place 0.16666666666666666
+right
+    along 0.16666666666666666
+right
+    and 0.16666666666666666
+right
+    out 0.16666666666666666
+right
+    foot 0.16666666666666666
+dragged
+    to 1.0
+gaps
+    even 0.5
+gaps
+    i 0.5
+shoes
+    full 1.0
+battle
+    in 0.2
+battle
+    with 0.2
+battle
+    beetles 0.2
+battle
+    puddle 0.2
+battle
+    muddle 0.2
+fly
+    kites 0.4
+fly
+    you'll 0.2
+fly
+    on 0.2
+fly
+    a 0.2
+meet
+    to 0.5
+meet
+    things 0.5
+under
+    it 0.3333333333333333
+under
+    his 0.3333333333333333
+under
+    the 0.3333333333333333
+kite
+    bump 1.0
+did
+    not 0.6666666666666666
+did
+    nothing 0.1111111111111111
+did
+    ' 0.1111111111111111
+did
+    you 0.1111111111111111
+sometimes
+    you 0.5
+sometimes
+    they 0.5
+scare
+    you 1.0
+ben
+    comes 0.2
+ben
+    broom 0.2
+ben
+    brings 0.2
+ben
+    bends 0.2
+ben
+    lead 0.2
+do
+    often 0.030303030303030304
+do
+    worse 0.030303030303030304
+do
+    not 0.24242424242424243
+do
+    they 0.030303030303030304
+do
+    ' 0.09090909090909091
+do
+    was 0.030303030303030304
+do
+    you 0.21212121212121213
+do
+    to 0.030303030303030304
+do
+    something 0.030303030303030304
+do
+    as 0.030303030303030304
+do
+    tricks 0.06060606060606061
+do
+    it 0.06060606060606061
+do
+    now 0.030303030303030304
+do
+    sir 0.030303030303030304
+do
+    if 0.030303030303030304
+do
+    with 0.030303030303030304
+girls
+    on 1.0
+down
+    to 0.05
+down
+    over 0.05
+down
+    through 0.05
+down
+    again 0.05
+down
+    i 0.05
+down
+    one 0.05
+down
+    ' 0.1
+down
+    on 0.05
+down
+    with 0.1
+down
+    too 0.05
+down
+    the 0.15
+down
+    my 0.05
+down
+    streets 0.05
+down
+    any 0.05
+down
+    from 0.05
+down
+    long 0.05
+launching
+    out 1.0
+hold
+    with 0.125
+hold
+    you 0.125
+hold
+    up 0.5
+hold
+    the 0.125
+hold
+    a 0.125
+doorknob
+    or 1.0
+'cause
+    you'll 1.0
+bet
+    with 1.0
+luke
+    luck 1.0
+bracken
+    by 1.0
+brings
+    ben 0.5
+brings
+    bim 0.5
+useless
+    place 1.0
+talk
+    about 1.0
+train
+    to 1.0
+arching
+    in 1.0
+bangs
+    and 1.0
+er
+    than 1.0
+never
+    right 0.16666666666666666
+never
+    get 0.16666666666666666
+never
+    been 0.3333333333333333
+never
+    foget 0.16666666666666666
+never
+    mix 0.16666666666666666
+she
+    say 0.3333333333333333
+she
+    do 0.16666666666666666
+she
+    will 0.3333333333333333
+she
+    said 0.16666666666666666
+take
+    them 0.5
+take
+    the 0.5
+bixby
+    or 1.0
+carrying
+    the 1.0
+little
+    more 0.1111111111111111
+little
+    horse 0.1111111111111111
+little
+    bit 0.3333333333333333
+little
+    toy 0.2222222222222222
+little
+    fish 0.1111111111111111
+little
+    talk 0.1111111111111111
+lucky
+    to 1.0
+some
+    boy 0.1875
+some
+    say 0.125
+some
+    are 0.0625
+some
+    so 0.0625
+some
+    mistake 0.0625
+some
+    good 0.0625
+some
+    new 0.0625
+some
+    milk 0.0625
+some
+    fun 0.0625
+some
+    you 0.0625
+some
+    windows 0.0625
+some
+    times 0.0625
+some
+    down 0.0625
+deep
+    in 0.5
+deep
+    and 0.5
+waiting
+    place 0.1111111111111111
+waiting
+    for 0.4444444444444444
+waiting
+    around 0.2222222222222222
+waiting
+    perhaps 0.1111111111111111
+waiting
+    and 0.1111111111111111
+goose
+    is 0.5
+goose
+    chew 0.5
+for
+    long 0.043478260869565216
+for
+    him 0.043478260869565216
+for
+    love 0.043478260869565216
+for
+    destruction 0.043478260869565216
+for
+    himself 0.043478260869565216
+for
+    that 0.043478260869565216
+for
+    another 0.043478260869565216
+for
+    the 0.13043478260869565
+for
+    chewy 0.043478260869565216
+for
+    a 0.17391304347826086
+for
+    much 0.043478260869565216
+for
+    miles 0.043478260869565216
+for
+    people 0.043478260869565216
+for
+    their 0.08695652173913043
+for
+    friday 0.043478260869565216
+for
+    you 0.043478260869565216
+for
+    anything 0.043478260869565216
+back
+    to 0.4
+back
+    in 0.4
+back
+    and 0.2
+watching
+    you 1.0
+fox
+    in 0.46153846153846156
+fox
+    on 0.07692307692307693
+fox
+    tick 0.07692307692307693
+fox
+    sir 0.23076923076923078
+fox
+    sews 0.07692307692307693
+fox
+    is 0.07692307692307693
+perhaps
+    the 0.5
+perhaps
+    for 0.5
+bite
+    you 1.0
+duddled
+    fuddled 1.0
+just
+    another 0.1111111111111111
+just
+    as 0.1111111111111111
+just
+    isn 0.1111111111111111
+just
+    a 0.1111111111111111
+just
+    go 0.1111111111111111
+just
+    waiting 0.3333333333333333
+just
+    never 0.1111111111111111
+sir
+    look 0.16666666666666666
+sir
+    mr 0.16666666666666666
+sir
+    i 0.16666666666666666
+sir
+    what 0.16666666666666666
+sir
+    you 0.16666666666666666
+sir
+    choose 0.16666666666666666
+outward
+    feet 1.0
+sit
+    there 1.0
+over
+    their 0.25
+over
+    and 0.25
+over
+    again 0.25
+over
+    with 0.25
+six
+    sick 1.0
+ticks
+    and 1.0
+go
+    better 0.05555555555555555
+go
+    by 0.05555555555555555
+go
+    behind 0.05555555555555555
+go
+    before 0.1111111111111111
+go
+    out 0.05555555555555555
+go
+    away 0.1111111111111111
+go
+    there 0.1111111111111111
+go
+    down 0.1111111111111111
+go
+    right 0.05555555555555555
+go
+    you 0.05555555555555555
+go
+    in 0.1111111111111111
+go
+    around 0.05555555555555555
+go
+    on 0.05555555555555555
+kept
+    his 0.5
+kept
+    the 0.5
+crazes
+    their 1.0
+tame
+    oh 1.0
+grant
+    what 1.0
+he
+    went 0.02857142857142857
+he
+    found 0.02857142857142857
+he
+    subdued 0.02857142857142857
+he
+    took 0.02857142857142857
+he
+    learned 0.02857142857142857
+he
+    always 0.02857142857142857
+he
+    flung 0.02857142857142857
+he
+    is 0.02857142857142857
+he
+    only 0.02857142857142857
+he
+    said 0.11428571428571428
+he
+    moves 0.02857142857142857
+he
+    will 0.05714285714285714
+he
+    likes 0.02857142857142857
+he
+    says 0.02857142857142857
+he
+    gives 0.02857142857142857
+he
+    should 0.08571428571428572
+he
+    fell 0.05714285714285714
+he
+    came 0.02857142857142857
+he
+    lit 0.02857142857142857
+he
+    ran 0.02857142857142857
+he
+    got 0.02857142857142857
+he
+    gave 0.02857142857142857
+he
+    shut 0.02857142857142857
+he
+    picked 0.02857142857142857
+he
+    put 0.02857142857142857
+he
+    was 0.02857142857142857
+he
+    doesn 0.02857142857142857
+he
+    just 0.02857142857142857
+big
+    red 0.16666666666666666
+big
+    bumps 0.16666666666666666
+big
+    thumps 0.16666666666666666
+big
+    mess 0.16666666666666666
+big
+    bands 0.16666666666666666
+big
+    band 0.16666666666666666
+very
+    well 0.6666666666666666
+very
+    good 0.3333333333333333
+bim
+    comes 0.2
+bim
+    brings 0.2
+bim
+    broom 0.2
+bim
+    bends 0.2
+bim
+    and 0.2
+sick
+    bricks 0.5
+sick
+    chicks 0.5
+bit
+    ' 1.0
+soon
+    the 0.5
+soon
+    take 0.5
+bend
+    to 0.3333333333333333
+bend
+    them 0.6666666666666666
+easily
+    done 1.0
+'a
+    lot 1.0
+join
+    the 1.0
+if
+    it 0.07142857142857142
+if
+    i 0.2857142857142857
+if
+    there 0.07142857142857142
+if
+    you 0.2857142857142857
+if
+    mother 0.07142857142857142
+if
+    your 0.07142857142857142
+if
+    sir 0.07142857142857142
+if
+    we 0.07142857142857142
+burns
+    and 1.0
+fear
+    ' 0.4
+fear
+    little 0.2
+fear
+    of 0.2
+fear
+    toward 0.2
+there's
+    a 1.0
+likely
+    to 1.0
+'i
+    know 0.3
+'i
+    do 0.2
+'i
+    will 0.3
+'i
+    call 0.1
+'i
+    always 0.1
+bim's
+    broom 0.2
+bim's
+    bends 0.2
+bim's
+    bent 0.2
+bim's
+    band 0.4
+in
+    the 0.3783783783783784
+in
+    to 0.02702702702702703
+in
+    fire 0.013513513513513514
+in
+    ice 0.013513513513513514
+in
+    me 0.013513513513513514
+in
+    his 0.013513513513513514
+in
+    or 0.013513513513513514
+in
+    each 0.013513513513513514
+in
+    darkness 0.013513513513513514
+in
+    a 0.20270270270270271
+in
+    leaves 0.013513513513513514
+in
+    on 0.013513513513513514
+in
+    with 0.013513513513513514
+in
+    this 0.013513513513513514
+in
+    box 0.05405405405405406
+in
+    socks 0.08108108108108109
+in
+    lakes 0.02702702702702703
+in
+    your 0.02702702702702703
+in
+    that 0.013513513513513514
+in
+    for 0.013513513513513514
+in
+    should 0.013513513513513514
+in
+    from 0.013513513513513514
+grasped
+    firmly 1.0
+made
+    repair 0.14285714285714285
+made
+    or 0.14285714285714285
+made
+    all 0.14285714285714285
+made
+    us 0.14285714285714285
+made
+    these 0.42857142857142855
+is
+    too 0.02040816326530612
+is
+    weeping 0.02040816326530612
+is
+    also 0.02040816326530612
+is
+    that 0.061224489795918366
+is
+    another 0.02040816326530612
+is
+    we 0.02040816326530612
+is
+    all 0.02040816326530612
+is
+    the 0.02040816326530612
+is
+    in 0.04081632653061224
+is
+    some 0.02040816326530612
+is
+    wet 0.02040816326530612
+is
+    not 0.20408163265306123
+is
+    funny 0.02040816326530612
+is
+    out 0.02040816326530612
+is
+    no 0.061224489795918366
+is
+    fun 0.04081632653061224
+is
+    what 0.04081632653061224
+is
+    a 0.04081632653061224
+is
+    on 0.02040816326530612
+is
+    near 0.02040816326530612
+is
+    good 0.02040816326530612
+is
+    so 0.02040816326530612
+is
+    lots 0.02040816326530612
+is
+    doing 0.02040816326530612
+is
+    much 0.02040816326530612
+is
+    done 0.02040816326530612
+is
+    you 0.02040816326530612
+is
+    your 0.04081632653061224
+is
+    just 0.04081632653061224
+is
+    waiting 0.02040816326530612
+it
+    s 0.06896551724137931
+it
+    and 0.06896551724137931
+it
+    open 0.034482758620689655
+it
+    had 0.034482758620689655
+it
+    comes 0.034482758620689655
+it
+    is 0.10344827586206896
+it
+    down 0.034482758620689655
+it
+    for 0.034482758620689655
+it
+    seems 0.034482758620689655
+it
+    so 0.034482758620689655
+it
+    bent 0.034482758620689655
+it
+    was 0.10344827586206896
+it
+    queer 0.034482758620689655
+it
+    deep 0.034482758620689655
+it
+    a 0.06896551724137931
+it
+    came 0.034482758620689655
+it
+    up 0.034482758620689655
+it
+    mr 0.034482758620689655
+it
+    something 0.034482758620689655
+it
+    can 0.034482758620689655
+it
+    stop 0.034482758620689655
+it
+    or 0.034482758620689655
+wuddled
+    fox 1.0
+loaves
+    and 1.0
+gave
+    them 1.0
+gluey
+    gluey 1.0
+begin
+    over 1.0
+don
+    t 1.0
+crystal
+    shells 1.0
+unpleasant
+    bump 1.0
+noodle
+    eating 0.5
+noodle
+    poodle 0.5
+headed
+    i 1.0
+bands
+    pig 0.3333333333333333
+bands
+    with 0.3333333333333333
+bands
+    are 0.3333333333333333
+summer
+    or 1.0
+trunks
+    arching 1.0
+willfully
+    misunderstand 1.0
+world
+    will 0.5
+world
+    watching 0.5
+brim
+    and 1.0
+wouldn
+    t 1.0
+'now
+    now 0.2
+'now
+    look 0.6
+'now
+    you 0.2
+stand
+    on 1.0
+can't
+    do 0.16666666666666666
+can't
+    say 0.5
+can't
+    blab 0.16666666666666666
+can't
+    win 0.16666666666666666
+sadly
+    it's 1.0
+side
+    it 1.0
+may
+    see 0.2
+may
+    no 0.2
+may
+    not 0.2
+may
+    get 0.2
+may
+    leak 0.2
+break
+    though 0.5
+break
+    necking 0.5
+could
+    play 0.2
+could
+    bear 0.1
+could
+    do 0.2
+could
+    put 0.1
+could
+    say 0.1
+could
+    not 0.1
+could
+    see 0.1
+could
+    sprain 0.1
+bent
+    in 0.25
+bent
+    our 0.25
+bent
+    broom 0.5
+off
+    to 0.3333333333333333
+off
+    and 0.3333333333333333
+off
+    the 0.3333333333333333
+places
+    you'll 1.0
+hops
+    and 1.0
+evening
+    of 1.0
+return
+    earth 1.0
+fun
+    that 0.1111111111111111
+fun
+    if 0.1111111111111111
+fun
+    at 0.2222222222222222
+fun
+    to 0.2222222222222222
+fun
+    in 0.1111111111111111
+fun
+    ' 0.1111111111111111
+fun
+    sir 0.1111111111111111
+feet
+    first 0.5
+feet
+    in 0.5
+hakken
+    kraks 1.0
+mail
+    to 1.0
+use
+    to 0.5
+use
+    a 0.5
+knees
+    that 1.0
+while
+    these 1.0
+ly
+    perch 1.0
+buxbaum
+    or 1.0
+that
+    throw 0.02
+that
+    would 0.02
+that
+    for 0.02
+that
+    doesn 0.02
+that
+    sends 0.02
+that
+    have 0.02
+that
+    doesn't 0.02
+that
+    wants 0.02
+that
+    the 0.02
+that
+    morning 0.02
+that
+    has 0.02
+that
+    cold 0.02
+that
+    bump 0.02
+that
+    ' 0.04
+that
+    is 0.16
+that
+    cat 0.04
+that
+    i 0.06
+that
+    they 0.04
+that
+    are 0.02
+that
+    were 0.02
+that
+    went 0.02
+that
+    day 0.02
+that
+    goo 0.02
+that
+    no 0.02
+that
+    why 0.02
+that
+    pleasant 0.02
+that
+    s 0.02
+that
+    case 0.02
+that
+    bang 0.02
+that
+    you'll 0.04
+that
+    waiting 0.02
+that
+    kind 0.02
+that
+    ball 0.02
+that
+    some 0.02
+that
+    scare 0.02
+that
+    can 0.02
+that
+    life's 0.02
+high
+    fliers 0.5
+high
+    heights 0.5
+picked
+    up 1.0
+find
+    them 0.125
+find
+    us 0.125
+find
+    this 0.125
+find
+    something 0.125
+find
+    another 0.125
+find
+    it 0.125
+find
+    any 0.125
+find
+    the 0.125
+than
+    be 0.3333333333333333
+than
+    all 0.3333333333333333
+than
+    true 0.3333333333333333
+wiggled
+    roads 1.0
+me
+    away 0.1111111111111111
+me
+    down 0.3333333333333333
+me
+    and 0.1111111111111111
+me
+    stopping 0.1111111111111111
+me
+    now 0.2222222222222222
+me
+    what 0.1111111111111111
+'put
+    me 1.0
+likes
+    having 0.3333333333333333
+likes
+    lakes 0.6666666666666666
+mother's
+    new 1.0
+downy
+    flake 1.0
+mr
+    knox 0.6153846153846154
+mr
+    fox 0.3076923076923077
+mr
+    socks 0.07692307692307693
+broom
+    breaks 0.6666666666666666
+broom
+    band 0.3333333333333333
+hose
+    on 0.3333333333333333
+hose
+    goes 0.6666666666666666
+dry
+    in 1.0
+breeze
+    rises 0.3333333333333333
+breeze
+    blew 0.3333333333333333
+breeze
+    made 0.3333333333333333
+fill
+    a 0.5
+fill
+    up 0.5
+my
+    neighbor 0.0625
+my
+    apple 0.0625
+my
+    little 0.0625
+my
+    hat 0.125
+my
+    tail 0.0625
+my
+    net 0.25
+my
+    playthings 0.0625
+my
+    tongue 0.1875
+my
+    poor 0.125
+fences
+    make 1.0
+dream
+    of 1.0
+true
+    there 1.0
+present
+    but 1.0
+no
+    fate 0.06666666666666667
+no
+    more 0.06666666666666667
+no
+    one 0.06666666666666667
+no
+    cows 0.06666666666666667
+no
+    step 0.06666666666666667
+no
+    fear 0.3333333333333333
+no
+    fun 0.06666666666666667
+no
+    i 0.06666666666666667
+no
+    way 0.06666666666666667
+no
+    sir 0.06666666666666667
+no
+    he 0.06666666666666667
+behind
+    his 0.5
+behind
+    because 0.5
+blab
+    such 1.0
+box
+    ' 0.2
+box
+    are 0.2
+box
+    with 0.2
+box
+    on 0.2
+box
+    now 0.2
+mixed
+    up 1.0
+best
+    of 1.0
+mess
+    is 0.5
+mess
+    ' 0.5
+sour
+    gooseberry 1.0
+boy
+    s 0.3333333333333333
+boy
+    bend 0.3333333333333333
+boy
+    too 0.3333333333333333
+head
+    of 0.3333333333333333
+head
+    full 0.3333333333333333
+head
+    straight 0.3333333333333333
+tasted
+    of 1.0
+of
+    straighter 0.0196078431372549
+of
+    broken 0.0196078431372549
+of
+    heaven 0.0196078431372549
+of
+    fact 0.0196078431372549
+of
+    them 0.0196078431372549
+of
+    birches 0.0392156862745098
+of
+    going 0.0196078431372549
+of
+    considerations 0.0196078431372549
+of
+    desire 0.0196078431372549
+of
+    hate 0.0196078431372549
+of
+    hunters 0.0196078431372549
+of
+    hiding 0.0196078431372549
+of
+    out 0.0196078431372549
+of
+    woods 0.0196078431372549
+of
+    trees 0.0196078431372549
+of
+    it 0.0196078431372549
+of
+    the 0.0784313725490196
+of
+    easy 0.0196078431372549
+of
+    good 0.058823529411764705
+of
+    my 0.0196078431372549
+of
+    this 0.0392156862745098
+of
+    his 0.0392156862745098
+of
+    one 0.0196078431372549
+of
+    her 0.0196078431372549
+of
+    bad 0.0196078431372549
+of
+    something 0.0196078431372549
+of
+    look 0.0196078431372549
+of
+    fox 0.0196078431372549
+of
+    new 0.0196078431372549
+of
+    rubber 0.0196078431372549
+of
+    fun 0.0196078431372549
+of
+    hard 0.0196078431372549
+of
+    sour 0.0196078431372549
+of
+    brains 0.0196078431372549
+of
+    feet 0.0196078431372549
+of
+    course 0.0392156862745098
+of
+    town 0.0196078431372549
+of
+    pearls 0.0196078431372549
+of
+    pants 0.0196078431372549
+of
+    a 0.0196078431372549
+of
+    all 0.0196078431372549
+of
+    your 0.0196078431372549
+hither
+    and 1.0
+oh
+    just 0.06666666666666667
+oh
+    i 0.2
+oh
+    no 0.2
+oh
+    so 0.06666666666666667
+oh
+    the 0.2
+oh
+    what 0.13333333333333333
+oh
+    she 0.06666666666666667
+oh
+    dear 0.06666666666666667
+somehow
+    you'll 1.0
+brick
+    stack 1.0
+savage
+    armed 1.0
+make
+    them 0.15384615384615385
+make
+    good 0.23076923076923078
+make
+    that 0.07692307692307693
+make
+    a 0.3076923076923077
+make
+    of 0.07692307692307693
+make
+    up 0.07692307692307693
+make
+    you 0.07692307692307693
+heard
+    them 1.0
+fight
+    these 1.0
+on
+    the 0.2
+on
+    hands 0.02
+on
+    a 0.16
+on
+    to 0.02
+on
+    my 0.02
+on
+    his 0.02
+on
+    top 0.02
+on
+    this 0.02
+on
+    her 0.02
+on
+    there 0.02
+on
+    fox 0.06
+on
+    knox 0.08
+on
+    box 0.04
+on
+    chicks 0.02
+on
+    clocks 0.02
+on
+    bricks 0.02
+on
+    slow 0.04
+on
+    your 0.04
+on
+    y 0.02
+on
+    for 0.02
+on
+    tv 0.02
+on
+    you 0.08
+on
+    and 0.02
+bricks
+    come 0.16666666666666666
+bricks
+    and 0.6666666666666666
+bricks
+    tick 0.16666666666666666
+or
+    winter 0.029411764705882353
+or
+    heard 0.029411764705882353
+or
+    walling 0.029411764705882353
+or
+    slick 0.029411764705882353
+or
+    a 0.29411764705882354
+or
+    worse 0.029411764705882353
+or
+    right 0.058823529411764705
+or
+    maybe 0.029411764705882353
+or
+    go 0.029411764705882353
+or
+    the 0.14705882352941177
+or
+    no 0.029411764705882353
+or
+    waiting 0.11764705882352941
+or
+    another 0.029411764705882353
+or
+    not 0.029411764705882353
+or
+    bixby 0.029411764705882353
+or
+    bray 0.029411764705882353
+or
+    mordecai 0.029411764705882353
+poodle
+    and 0.3333333333333333
+poodle
+    beetle 0.3333333333333333
+poodle
+    bottled 0.3333333333333333
+cross
+    weirdish 1.0
+exactly
+    and 1.0
+heaps
+    of 1.0
+scored
+    there 1.0
+earth
+    awhile 0.5
+earth
+    s 0.5
+bottle's
+    on 1.0
+coming
+    back 1.0
+backs
+    are 1.0
+elbow
+    and 1.0
+upper
+    boulders 0.5
+upper
+    to 0.5
+about
+    the 0.2857142857142857
+about
+    not 0.14285714285714285
+about
+    it 0.14285714285714285
+about
+    tweetle 0.2857142857142857
+about
+    some 0.14285714285714285
+pains
+    you 1.0
+trees
+    will 0.25
+trees
+    three 0.25
+trees
+    freeze 0.25
+trees
+    made 0.25
+somewhere
+    ages 1.0
+bang
+    ups 1.0
+above
+    the 1.0
+band
+    bim's 0.2
+band
+    bangs 0.2
+band
+    booms 0.2
+band
+    boom 0.2
+band
+    broom 0.2
+promises
+    to 1.0
+they
+    click 0.034482758620689655
+they
+    are 0.10344827586206896
+they
+    seem 0.034482758620689655
+they
+    never 0.034482758620689655
+they
+    have 0.06896551724137931
+they
+    would 0.034482758620689655
+they
+    make 0.034482758620689655
+they
+    want 0.034482758620689655
+they
+    ran 0.10344827586206896
+they
+    said 0.034482758620689655
+they
+    should 0.06896551724137931
+they
+    will 0.10344827586206896
+they
+    like 0.034482758620689655
+they
+    play 0.034482758620689655
+they
+    battle 0.034482758620689655
+they
+    call 0.13793103448275862
+they
+    don't 0.034482758620689655
+they
+    won't 0.034482758620689655
+lighted
+    but 1.0
+here's
+    a 0.3333333333333333
+here's
+    an 0.6666666666666666
+old
+    stone 0.5
+old
+    jar 0.5
+myself
+    a 0.5
+myself
+    happy 0.5
+frozen
+    ground 0.5
+frozen
+    lake 0.5
+them
+    down 0.1
+them
+    shed 0.05
+them
+    over 0.05
+them
+    and 0.05
+them
+    made 0.1
+them
+    there 0.05
+them
+    balance 0.05
+them
+    really 0.05
+them
+    to 0.05
+them
+    go 0.05
+them
+    out 0.1
+them
+    a 0.05
+them
+    run 0.05
+them
+    i 0.05
+them
+    at 0.05
+them
+    away 0.1
+then
+    he 0.25
+then
+    come 0.03571428571428571
+then
+    took 0.03571428571428571
+then
+    something 0.03571428571428571
+then
+    we 0.10714285714285714
+then
+    sally 0.07142857142857142
+then
+    fast 0.03571428571428571
+then
+    out 0.03571428571428571
+then
+    those 0.03571428571428571
+then
+    our 0.07142857142857142
+then
+    i 0.07142857142857142
+then
+    i'll 0.03571428571428571
+then
+    bring 0.03571428571428571
+then
+    mr 0.03571428571428571
+then
+    what 0.07142857142857142
+then
+    things 0.03571428571428571
+hike
+    far 1.0
+something
+    there 0.2222222222222222
+something
+    to 0.2222222222222222
+something
+    went 0.1111111111111111
+something
+    new 0.2222222222222222
+something
+    fast 0.1111111111111111
+something
+    it 0.1111111111111111
+morning
+    equally 1.0
+freezy
+    breeze 0.6666666666666666
+freezy
+    trees 0.3333333333333333
+horse
+    must 1.0
+stopping
+    here 1.0
+except
+    when 1.0
+sue
+    sews 0.8
+sue
+    sew 0.2
+fact
+    about 1.0
+bells
+    a 1.0
+sun
+    s 0.3333333333333333
+sun
+    did 0.3333333333333333
+sun
+    is 0.3333333333333333
+seen
+    them 1.0
+long
+    they 0.3333333333333333
+long
+    i 0.3333333333333333
+long
+    wiggled 0.3333333333333333
+seem
+    not 1.0
+fell
+    on 0.5
+fell
+    into 0.5
+remember
+    that 1.0
+into
+    a 1.0
+'why
+    do 0.5
+'why
+    we 0.5
+frightening
+    creek 1.0
+trees'
+    cheese 1.0
+so
+    low 0.041666666666666664
+so
+    not 0.041666666666666664
+so
+    was 0.041666666666666664
+so
+    i 0.041666666666666664
+so
+    nearly 0.041666666666666664
+so
+    well 0.041666666666666664
+so
+    we 0.125
+so
+    all 0.041666666666666664
+so
+    ' 0.041666666666666664
+so
+    tame 0.041666666666666664
+so
+    as 0.08333333333333333
+so
+    big 0.041666666666666664
+so
+    deep 0.041666666666666664
+so
+    tall 0.041666666666666664
+so
+    sorry 0.041666666666666664
+so
+    dumb 0.041666666666666664
+so
+    good 0.041666666666666664
+so
+    confused 0.041666666666666664
+so
+    much 0.041666666666666664
+so
+    be 0.041666666666666664
+so
+    get 0.041666666666666664
+free
+    fleas 1.0
+mix
+    up 1.0
+destruction
+    ice 1.0
+though
+    once 0.16666666666666666
+though
+    as 0.16666666666666666
+though
+    the 0.3333333333333333
+though
+    your 0.3333333333333333
+weary
+    of 1.0
+one
+    by 0.041666666666666664
+one
+    he 0.041666666666666664
+one
+    but 0.041666666666666664
+one
+    was 0.041666666666666664
+one
+    eye 0.041666666666666664
+one
+    could 0.041666666666666664
+one
+    stone 0.041666666666666664
+one
+    has 0.041666666666666664
+one
+    on 0.041666666666666664
+one
+    traveler 0.041666666666666664
+one
+    as 0.041666666666666664
+one
+    less 0.041666666666666664
+one
+    little 0.125
+one
+    one 0.041666666666666664
+one
+    hand 0.041666666666666664
+one
+    and 0.16666666666666666
+one
+    kite 0.08333333333333333
+one
+    alive 0.041666666666666664
+makes
+    them 0.3333333333333333
+makes
+    gaps 0.3333333333333333
+makes
+    my 0.3333333333333333
+maker
+    upper 1.0
+enemies
+    prowl 1.0
+many
+    colored 0.5
+many
+    strange 0.5
+people
+    as 0.5
+people
+    just 0.5
+stay
+    where 0.5
+stay
+    out 0.5
+face
+    burns 0.5
+face
+    up 0.5
+fish
+    said 0.1875
+fish
+    ' 0.125
+fish
+    on 0.0625
+fish
+    came 0.0625
+fish
+    as 0.0625
+fish
+    to 0.125
+fish
+    in 0.25
+fish
+    shook 0.0625
+fish
+    or 0.0625
+luck's
+    duck 1.0
+afraid
+    you 0.5
+afraid
+    that 0.5
+tickles
+    with 1.0
+to
+    left 0.008264462809917356
+to
+    think 0.008264462809917356
+to
+    stay 0.01652892561983471
+to
+    sweep 0.008264462809917356
+to
+    the 0.06611570247933884
+to
+    break 0.008264462809917356
+to
+    dry 0.008264462809917356
+to
+    say 0.06611570247933884
+to
+    have 0.024793388429752067
+to
+    fetch 0.008264462809917356
+to
+    learn 0.01652892561983471
+to
+    conquer 0.008264462809917356
+to
+    fill 0.008264462809917356
+to
+    be 0.06611570247933884
+to
+    get 0.01652892561983471
+to
+    it 0.008264462809917356
+to
+    return 0.008264462809917356
+to
+    go 0.12396694214876033
+to
+    perish 0.008264462809917356
+to
+    please 0.008264462809917356
+to
+    walk 0.008264462809917356
+to
+    each 0.01652892561983471
+to
+    use 0.008264462809917356
+to
+    make 0.01652892561983471
+to
+    little 0.008264462809917356
+to
+    know 0.01652892561983471
+to
+    whom 0.008264462809917356
+to
+    give 0.008264462809917356
+to
+    him 0.008264462809917356
+to
+    me 0.01652892561983471
+to
+    where 0.008264462809917356
+to
+    way 0.008264462809917356
+to
+    watch 0.008264462809917356
+to
+    stop 0.01652892561983471
+to
+    ask 0.008264462809917356
+to
+    keep 0.008264462809917356
+to
+    play 0.049586776859504134
+to
+    do 0.03305785123966942
+to
+    us 0.03305785123966942
+to
+    you 0.024793388429752067
+to
+    fall 0.008264462809917356
+to
+    shake 0.01652892561983471
+to
+    fly 0.01652892561983471
+to
+    find 0.008264462809917356
+to
+    ticks 0.008264462809917356
+to
+    chew 0.01652892561983471
+to
+    great 0.008264462809917356
+to
+    people 0.008264462809917356
+to
+    happen 0.008264462809917356
+to
+    high 0.008264462809917356
+to
+    a 0.008264462809917356
+to
+    race 0.008264462809917356
+to
+    come 0.01652892561983471
+to
+    ring 0.008264462809917356
+to
+    snow 0.008264462809917356
+to
+    grow 0.008264462809917356
+to
+    bite 0.008264462809917356
+to
+    boil 0.008264462809917356
+to
+    your 0.008264462809917356
+storms
+    do 1.0
+open
+    air 1.0
+but
+    swinging 0.045454545454545456
+but
+    i 0.09090909090909091
+but
+    hung 0.045454545454545456
+but
+    dipped 0.045454545454545456
+but
+    if 0.045454545454545456
+but
+    they 0.045454545454545456
+but
+    at 0.045454545454545456
+but
+    here 0.045454545454545456
+but
+    it 0.045454545454545456
+but
+    we 0.045454545454545456
+but
+    our 0.09090909090909091
+but
+    that 0.13636363636363635
+but
+    you 0.09090909090909091
+but
+    your 0.045454545454545456
+but
+    sadly 0.045454545454545456
+but
+    mostly 0.045454545454545456
+but
+    on 0.045454545454545456
+bus
+    to 1.0
+'your
+    mother 1.0
+ice
+    storms 0.3333333333333333
+ice
+    a 0.3333333333333333
+ice
+    storm 0.3333333333333333
+'you
+    did 1.0
+loaded
+    with 1.0
+darker
+    trees 1.0
+leaves
+    on 0.5
+leaves
+    no 0.5
+un
+    slumping 1.0
+wood
+    and 0.5
+wood
+    box 0.5
+up
+    to 0.06896551724137931
+up
+    a 0.034482758620689655
+up
+    with 0.10344827586206896
+up
+    up 0.06896551724137931
+up
+    high 0.034482758620689655
+up
+    two 0.034482758620689655
+up
+    the 0.1724137931034483
+up
+    and 0.06896551724137931
+up
+    these 0.034482758620689655
+up
+    there 0.034482758620689655
+up
+    our 0.034482758620689655
+up
+    on 0.034482758620689655
+up
+    they 0.034482758620689655
+up
+    those 0.034482758620689655
+up
+    all 0.06896551724137931
+up
+    his 0.034482758620689655
+up
+    many 0.034482758620689655
+up
+    of 0.034482758620689655
+up
+    your 0.034482758620689655
+us
+    once 0.16666666666666666
+us
+    as 0.16666666666666666
+us
+    jump 0.16666666666666666
+us
+    fast 0.16666666666666666
+us
+    this 0.16666666666666666
+us
+    two 0.16666666666666666
+farmhouse
+    near 1.0
+this
+    with 0.041666666666666664
+this
+    is 0.08333333333333333
+this
+    house 0.125
+this
+    look 0.041666666666666664
+this
+    trick 0.08333333333333333
+this
+    game 0.125
+this
+    box 0.041666666666666664
+this
+    wet 0.041666666666666664
+this
+    way 0.125
+this
+    big 0.041666666666666664
+this
+    mess 0.08333333333333333
+this
+    mr 0.08333333333333333
+this
+    a 0.08333333333333333
+please
+    the 0.5
+please
+    sir 0.5
+look
+    at 0.4666666666666667
+look
+    with 0.06666666666666667
+look
+    what 0.06666666666666667
+look
+    ' 0.13333333333333333
+look
+    sir 0.13333333333333333
+look
+    up 0.06666666666666667
+look
+    'em 0.06666666666666667
+ve
+    tasted 1.0
+once
+    they 0.25
+once
+    myself 0.25
+once
+    again 0.25
+once
+    more 0.25
+sees
+    who 1.0
+know
+    where 0.07142857142857142
+know
+    enough 0.07142857142857142
+know
+    beyond 0.07142857142857142
+know
+    it 0.07142857142857142
+know
+    some 0.14285714285714285
+know
+    what 0.21428571428571427
+know
+    how 0.07142857142857142
+know
+    ' 0.14285714285714285
+know
+    about 0.07142857142857142
+know
+    you'll 0.07142857142857142
+knox
+    in 0.21428571428571427
+knox
+    on 0.14285714285714285
+knox
+    and 0.07142857142857142
+knox
+    sir 0.35714285714285715
+knox
+    tock 0.07142857142857142
+knox
+    now 0.07142857142857142
+knox
+    please 0.07142857142857142
+rough
+    with 1.0
+potatoes
+    you 1.0
+father
+    s 1.0
+kid
+    you'll 1.0
+cold
+    cold 0.3333333333333333
+cold
+    wet 0.3333333333333333
+cold
+    to 0.3333333333333333
+that's
+    not 0.4
+that's
+    what 0.4
+that's
+    enough 0.2
+life
+    is 1.0
+we
+    find 0.02857142857142857
+we
+    meet 0.02857142857142857
+we
+    keep 0.02857142857142857
+we
+    go 0.02857142857142857
+we
+    have 0.02857142857142857
+we
+    wear 0.02857142857142857
+we
+    do 0.05714285714285714
+we
+    sat 0.08571428571428572
+we
+    two 0.02857142857142857
+we
+    had 0.05714285714285714
+we
+    did 0.05714285714285714
+we
+    could 0.05714285714285714
+we
+    looked 0.05714285714285714
+we
+    saw 0.2
+we
+    can 0.08571428571428572
+we
+    shook 0.02857142857142857
+we
+    tell 0.05714285714285714
+we
+    come 0.02857142857142857
+we
+    didn 0.02857142857142857
+apple
+    orchard 0.5
+apple
+    trees 0.5
+twig
+    s 1.0
+wants
+    it 1.0
+'how
+    i 0.5
+'how
+    do 0.5
+lakes
+    luke 0.5
+lakes
+    duck 0.5
+lovely
+    dark 1.0
+they're
+    darked 1.0
+wide
+    open 0.5
+wide
+    world 0.5
+winning
+    est 1.0
+again
+    good 1.0
+'did
+    you 1.0
+stone
+    on 0.3333333333333333
+stone
+    grasped 0.3333333333333333
+stone
+    savage 0.3333333333333333
+'do
+    i 0.5
+'do
+    you 0.5
+step
+    had 0.25
+step
+    in 0.25
+step
+    this 0.25
+step
+    with 0.25
+passing
+    there 1.0
+yelping
+    dogs 1.0
+streets
+    look 0.5
+streets
+    are 0.5
+whole
+    gang 0.5
+whole
+    wide 0.5
+fingers
+    rough 1.0
+beyond
+    the 1.0
+'em
+    over 1.0
+road
+    between 1.0
+games
+    we 0.25
+games
+    to 0.25
+games
+    too 0.25
+games
+    you 0.25
+weather
+    be 1.0
+between
+    us 0.5
+between
+    the 0.25
+between
+    hither 0.25
+98
+    and 1.0
+van
+    allen 1.0
+worn
+    them 1.0
+sneakers
+    may 1.0
+birch
+    tree 1.0
+work
+    of 1.0
+lose
+    how 1.0
+come
+    back 0.18181818181818182
+come
+    after 0.09090909090909091
+come
+    here 0.09090909090909091
+come
+    to 0.18181818181818182
+come
+    now 0.18181818181818182
+come
+    down 0.09090909090909091
+come
+    or 0.18181818181818182
+'with
+    a 0.5
+'with
+    my 0.5
+toward
+    heaven 0.5
+toward
+    a 0.5
+books
+    and 1.0
+knowing
+    how 1.0
+love
+    a 1.0
+tongue
+    isn't 0.6666666666666666
+tongue
+    quite 0.3333333333333333
+i'd
+    like 1.0
+wear
+    our 1.0
+mending
+    time 1.0
+birds
+    as 1.0
+our
+    backs 0.058823529411764705
+our
+    fingers 0.058823529411764705
+our
+    mother 0.17647058823529413
+our
+    fish 0.35294117647058826
+our
+    toy 0.058823529411764705
+our
+    house 0.058823529411764705
+our
+    new 0.058823529411764705
+our
+    game 0.11764705882352941
+our
+    way 0.058823529411764705
+i'm
+    so 0.25
+i'm
+    sorry 0.25
+i'm
+    afraid 0.5
+out
+    and 0.06666666666666667
+out
+    of 0.4666666666666667
+out
+    too 0.06666666666666667
+out
+    door 0.06666666666666667
+out
+    ' 0.13333333333333333
+out
+    put 0.06666666666666667
+out
+    there 0.06666666666666667
+out
+    do 0.06666666666666667
+across
+    the 0.3333333333333333
+across
+    it 0.6666666666666666
+seeing
+    great 1.0
+fall
+    ' 1.0
+get
+    away 0.07692307692307693
+get
+    across 0.07692307692307693
+get
+    out 0.07692307692307693
+get
+    rid 0.07692307692307693
+get
+    them 0.07692307692307693
+get
+    those 0.07692307692307693
+get
+    all 0.15384615384615385
+get
+    so 0.07692307692307693
+get
+    sore 0.07692307692307693
+get
+    mixed 0.15384615384615385
+get
+    on 0.07692307692307693
+dark
+    and 1.0
+eat
+    the 1.0
+place
+    for 0.3333333333333333
+place
+    where 0.3333333333333333
+place
+    you 0.3333333333333333
+steer
+    yourself 1.0
+dare
+    to 1.0
+spills
+    the 1.0
+wherever
+    you 1.0
+loud
+    i 1.0
+ben's
+    broom 0.2
+ben's
+    bends 0.2
+ben's
+    bent 0.2
+ben's
+    band 0.4
+'he
+    has 1.0
+sally
+    and 1.0
+lead
+    bands 1.0
+sends
+    the 1.0
+lots
+    of 1.0
+thump
+    thump 0.5
+thump
+    bump 0.5
+ages
+    and 0.5
+ages
+    hence 0.5
+stir
+    cracks 1.0
+first
+    with 0.3333333333333333
+first
+    for 0.3333333333333333
+first
+    i'll 0.3333333333333333
+allen
+    o'shea 1.0
+prefer
+    to 1.0
+sound
+    s 1.0
+own
+    and 1.0
+'in
+    this 1.0
+subdued
+    his 1.0
+should
+    prefer 0.07142857142857142
+should
+    ever 0.07142857142857142
+should
+    not 0.5714285714285714
+should
+    we 0.21428571428571427
+should
+    you 0.07142857142857142
+only
+    play 0.25
+only
+    says 0.25
+only
+    and 0.25
+only
+    other 0.25
+from
+    town 0.14285714285714285
+from
+    a 0.14285714285714285
+from
+    earth 0.14285714285714285
+from
+    what 0.14285714285714285
+from
+    up 0.14285714285714285
+from
+    the 0.14285714285714285
+from
+    behind 0.14285714285714285
+sunny
+    winter 1.0
+'these
+    things 1.0
+climbing
+    carefully 0.5
+climbing
+    a 0.5
+spell
+    to 1.0
+you'll
+    look 0.034482758620689655
+you'll
+    want 0.034482758620689655
+you'll
+    head 0.034482758620689655
+you'll
+    start 0.06896551724137931
+you'll
+    go 0.06896551724137931
+you'll
+    be 0.2413793103448276
+you'll
+    join 0.034482758620689655
+you'll
+    have 0.034482758620689655
+you'll
+    pass 0.034482758620689655
+you'll
+    soon 0.034482758620689655
+you'll
+    come 0.034482758620689655
+you'll
+    escape 0.034482758620689655
+you'll
+    find 0.034482758620689655
+you'll
+    ride 0.034482758620689655
+you'll
+    play 0.06896551724137931
+you'll
+    meet 0.034482758620689655
+you'll
+    hike 0.034482758620689655
+you'll
+    get 0.06896551724137931
+you'll
+    move 0.034482758620689655
+like
+    to 0.30434782608695654
+like
+    girls 0.043478260869565216
+like
+    a 0.043478260869565216
+like
+    an 0.043478260869565216
+like
+    it 0.2608695652173913
+like
+    that 0.043478260869565216
+like
+    this 0.08695652173913043
+like
+    these 0.043478260869565216
+like
+    ' 0.043478260869565216
+like
+    the 0.043478260869565216
+like
+    our 0.043478260869565216
+goes
+    some 1.0
+branches
+    climbing 0.5
+branches
+    up 0.5
+chances
+    are 1.0
+flung
+    outward 1.0
+ground
+    he 0.5
+ground
+    swell 0.5
+fame
+    you'll 1.0
+seems
+    to 1.0
+here
+    there 0.25
+here
+    to 0.25
+here
+    is 0.5
+winter
+    morning 0.5
+winter
+    and 0.5
+riding
+    them 1.0
+bends
+    bim's 0.5
+bends
+    ben's 0.5
+can
+    pass 0.03571428571428571
+can
+    have 0.07142857142857142
+can
+    do 0.07142857142857142
+can
+    hold 0.21428571428571427
+can
+    hop 0.03571428571428571
+can
+    fan 0.03571428571428571
+can
+    get 0.14285714285714285
+can
+    not 0.03571428571428571
+can
+    make 0.07142857142857142
+can
+    say 0.03571428571428571
+can
+    steer 0.03571428571428571
+can
+    happen 0.07142857142857142
+can
+    you 0.07142857142857142
+can
+    be 0.03571428571428571
+can
+    scare 0.03571428571428571
+limp
+    not 1.0
+hair
+    to 1.0
+ready
+    for 0.5
+ready
+    because 0.5
+cat
+    in 0.7142857142857143
+cat
+    go 0.07142857142857142
+cat
+    said 0.07142857142857142
+cat
+    with 0.07142857142857142
+cat
+    went 0.07142857142857142
+flew
+    freezy 1.0
+said
+    it 0.02631578947368421
+said
+    'how 0.05263157894736842
+said
+    to 0.07894736842105263
+said
+    the 0.6578947368421053
+said
+    'no 0.05263157894736842
+said
+    'do 0.02631578947368421
+said
+    our 0.02631578947368421
+said
+    'look 0.02631578947368421
+said
+    'with 0.02631578947368421
+said
+    'that 0.02631578947368421
+village
+    though 1.0
+nose
+    hose 1.0
+will
+    end 0.02631578947368421
+will
+    never 0.02631578947368421
+will
+    not 0.18421052631578946
+will
+    show 0.10526315789473684
+will
+    hold 0.02631578947368421
+will
+    like 0.02631578947368421
+will
+    pick 0.02631578947368421
+will
+    see 0.02631578947368421
+will
+    give 0.02631578947368421
+will
+    bump 0.02631578947368421
+will
+    hit 0.02631578947368421
+will
+    she 0.05263157894736842
+will
+    have 0.02631578947368421
+will
+    come 0.05263157894736842
+will
+    find 0.05263157894736842
+will
+    say 0.02631578947368421
+will
+    top 0.02631578947368421
+will
+    fly 0.02631578947368421
+will
+    make 0.02631578947368421
+will
+    be 0.02631578947368421
+will
+    go 0.07894736842105263
+will
+    hike 0.02631578947368421
+will
+    you 0.02631578947368421
+will
+    indeed 0.02631578947368421
+toad
+    in 1.0
+tricks
+    ' 0.25
+tricks
+    are 0.25
+tricks
+    with 0.5
+really
+    about 1.0
+magical
+    things 1.0
+balancing
+    act 1.0
+wild
+    space 1.0
